@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca82fd50-5bde-47a8-9e6f-4eacf8840bf2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="362" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectId" id="1eal17DB3LAxvGv0ogm7OTrjOI7" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594367207494" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="tamrin kargah book" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca82fd50-5bde-47a8-9e6f-4eacf8840bf2" name="Default Changelist" comment="" />
+      <created>1593186067824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593186067824</updated>
+      <workItem from="1593186073307" duration="754000" />
+      <workItem from="1593187547171" duration="247000" />
+      <workItem from="1593188098208" duration="863000" />
+      <workItem from="1593242548957" duration="1622000" />
+      <workItem from="1593244409260" duration="1894000" />
+      <workItem from="1593246561608" duration="1627000" />
+      <workItem from="1593358832134" duration="1613000" />
+      <workItem from="1593360705997" duration="2082000" />
+      <workItem from="1593363018657" duration="1395000" />
+      <workItem from="1593579373994" duration="1529000" />
+      <workItem from="1593676832632" duration="443000" />
+      <workItem from="1594363706611" duration="1591000" />
+      <workItem from="1594365528673" duration="1647000" />
+      <workItem from="1594367406656" duration="676000" />
+      <workItem from="1594567379108" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
